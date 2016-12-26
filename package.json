@@ -1,0 +1,23 @@
+{
+  "name": "maskvjs",
+  "version": "1.0.0",
+  "description": "Mask in Vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MarcoBrunoBR/maskvjs.git"
+  },
+  "keywords": [
+    "mask",
+    "vanillajs"
+  ],
+  "author": "Marco Bruno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcoBrunoBR/maskvjs/issues"
+  },
+  "homepage": "https://github.com/MarcoBrunoBR/maskvjs#readme"
+}
