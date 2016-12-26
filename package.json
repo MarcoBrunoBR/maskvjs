@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/MarcoBrunoBR/maskvjs/issues"
   },
-  "homepage": "https://github.com/MarcoBrunoBR/maskvjs#readme"
+  "homepage": "https://github.com/MarcoBrunoBR/maskvjs#readme",
+  "devDependencies": {
+    "casperjs": "^1.1.3"
+  }
 }
